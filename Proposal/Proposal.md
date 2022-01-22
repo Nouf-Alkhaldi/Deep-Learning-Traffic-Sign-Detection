@@ -25,6 +25,9 @@ From  [[Kaggle]](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffi
 There are More than 40 classes  and More than 50,000 images in total.
 
 
+## Algorithms:
+Convolutional Neural Network models (CCN)
+
 
 ## Tools:
 
